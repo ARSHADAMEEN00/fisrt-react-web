@@ -6,7 +6,8 @@ function Signup() {
         <div className='signup_page'>
             <h3>Click <Link to='/'>Here</Link> to Go Demo</h3>
             <h2>OR</h2>
-            <button>SignIn</button>
+            <button>SignIn</button> 
+            
         </div>
     )
 }
