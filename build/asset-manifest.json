@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-websit/static/css/main.cf18a2f4.chunk.css",
-    "main.js": "/react-websit/static/js/main.e3af84cd.chunk.js",
-    "main.js.map": "/react-websit/static/js/main.e3af84cd.chunk.js.map",
-    "runtime-main.js": "/react-websit/static/js/runtime-main.2a2513ed.js",
-    "runtime-main.js.map": "/react-websit/static/js/runtime-main.2a2513ed.js.map",
-    "static/js/2.9da62189.chunk.js": "/react-websit/static/js/2.9da62189.chunk.js",
-    "static/js/2.9da62189.chunk.js.map": "/react-websit/static/js/2.9da62189.chunk.js.map",
-    "index.html": "/react-websit/index.html",
-    "static/css/main.cf18a2f4.chunk.css.map": "/react-websit/static/css/main.cf18a2f4.chunk.css.map",
-    "static/js/2.9da62189.chunk.js.LICENSE.txt": "/react-websit/static/js/2.9da62189.chunk.js.LICENSE.txt",
-    "static/media/img-home.c034239e.jpg": "/react-websit/static/media/img-home.c034239e.jpg"
+    "main.css": "/nediya99/website-react.git/static/css/main.cf18a2f4.chunk.css",
+    "main.js": "/nediya99/website-react.git/static/js/main.e3af84cd.chunk.js",
+    "main.js.map": "/nediya99/website-react.git/static/js/main.e3af84cd.chunk.js.map",
+    "runtime-main.js": "/nediya99/website-react.git/static/js/runtime-main.fb350583.js",
+    "runtime-main.js.map": "/nediya99/website-react.git/static/js/runtime-main.fb350583.js.map",
+    "static/js/2.9da62189.chunk.js": "/nediya99/website-react.git/static/js/2.9da62189.chunk.js",
+    "static/js/2.9da62189.chunk.js.map": "/nediya99/website-react.git/static/js/2.9da62189.chunk.js.map",
+    "index.html": "/nediya99/website-react.git/index.html",
+    "static/css/main.cf18a2f4.chunk.css.map": "/nediya99/website-react.git/static/css/main.cf18a2f4.chunk.css.map",
+    "static/js/2.9da62189.chunk.js.LICENSE.txt": "/nediya99/website-react.git/static/js/2.9da62189.chunk.js.LICENSE.txt",
+    "static/media/img-home.c034239e.jpg": "/nediya99/website-react.git/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a2513ed.js",
+    "static/js/runtime-main.fb350583.js",
     "static/js/2.9da62189.chunk.js",
     "static/css/main.cf18a2f4.chunk.css",
     "static/js/main.e3af84cd.chunk.js"
